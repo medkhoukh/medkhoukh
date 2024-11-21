@@ -1,6 +1,6 @@
 👋 Hi, I’m @medkhoukh
 I'm a highly motivated computer sciences engineering student at Enseeiht Toulouse.
-🚀 Passionate about Computer Networks, Cybersecurity, Cloud Computing, and Web Development.
+🚀 Passionate about Computer Science , Cybersecurity and Web Development.
 🌟 Ready to take any new challenges 
 
 📫 How to reach me:
